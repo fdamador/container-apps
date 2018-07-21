@@ -9,5 +9,6 @@
         "version": "latest", 
         "location": "https://registry.bspkfy.com/r/ausenco/pipeline/server", 
         "type": "ausenco",
+        "qcsVersion": "1.8"
     }
 ]
