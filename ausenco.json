@@ -8,6 +8,6 @@
         "name": "registry.bspkfy.com/ausenco/pipeline/server", 
         "version": "latest", 
         "location": "https://registry.bspkfy.com/r/ausenco/pipeline/server", 
-        "type": "docker",
+        "type": "ausenco",
     }
 ]
