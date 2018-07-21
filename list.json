@@ -553,7 +553,7 @@
         "repository": "ausenco", 
         "arch": "amd64", 
         "icon": "http://download.qnap.com/QPKG/images/QPKG/container/ai_default.png",
-        "displayName": "Pipeline Webvisor", 
+        "displayName": "webvisor", 
         "name": "registry.bspkfy.com/ausenco/pipeline/server", 
         "version": "latest", 
         "location": "https://registry.bspkfy.com/ausenco/pipeline/server", 
