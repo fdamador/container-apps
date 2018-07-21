@@ -516,4 +516,21 @@
 			<![CDATA[{}]]>
 		</inspect>
 	</ctstation>
+	<ctstation>
+		<name>Webvisor</name>
+		<internalName>server</internalName>
+		<version>1.0</version>
+		<arch>amd</arch>
+		<category>application</category>
+		<imageType>app</imageType>
+		<repository>Ausenco</repository>
+		<icon>http://download.qnap.com/QPKG/images/QPKG/container/ai_default.png</icon>
+		<location>https://registry.bspkfy.com/r/ausenco/pipeline/</location>
+		<description>
+			<![CDATA[Pipeline Webvisor (formerly Advisor): Pipeline Analytic tool to monitor your process.]]>
+		</description>
+		<inspect>
+			<![CDATA[{}]]>
+		</inspect>
+	</ctstation>
 </plugins>
