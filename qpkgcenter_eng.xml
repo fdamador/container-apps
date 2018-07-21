@@ -523,9 +523,9 @@
 		<arch>amd64</arch>
 		<category>application</category>
 		<imageType>docker</imageType>
-		<repository>ausenco</repository>
+		<repository>Ausenco</repository>
 		<icon>http://download.qnap.com/QPKG/images/QPKG/container/ai_default.png</icon>
-		<location>https://registry.bspkfy.com/r/ausenco/pipeline/server/</location>
+		<location>https://registry.bspkfy.com/ausenco/pipeline/server/</location>
 		<description>
 			<![CDATA[Pipeline Webvisor (formerly Advisor): Pipeline Analytic tool to monitor your process.]]>
 		</description>
