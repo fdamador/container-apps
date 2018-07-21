@@ -521,8 +521,8 @@
 		<internalName>registry.bspkfy.com/ausenco/pipeline/server</internalName>
 		<version>1.0</version>
 		<arch>amd64</arch>
-		<category>application</category>
-		<imageType>app</imageType>
+		<category>qnap</category>
+		<imageType>docker</imageType>
 		<repository>ausenco</repository>
 		<icon>http://download.qnap.com/QPKG/images/QPKG/container/ai_default.png</icon>
 		<location>https://registry.bspkfy.com/ausenco/pipeline/server/</location>
