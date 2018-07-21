@@ -518,7 +518,7 @@
 	</ctstation>
 	<ctstation>
 		<name>Webvisor</name>
-		<internalName>server</internalName>
+		<internalName>registry.bspkfy.com/ausenco/pipeline/server</internalName>
 		<version>1.0</version>
 		<arch>amd64</arch>
 		<category>application</category>
