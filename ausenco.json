@@ -2,14 +2,14 @@
 [
     {
         "description": "This is Pipeline Advisor Software from Ausenco.", 
-        "repository": "Ausenco", 
+        "repository": "ausenco", 
         "arch": "amd64", 
         "icon": "http://download.qnap.com/QPKG/images/QPKG/container/ai_default.png",
         "displayName": "Pipeline Webvisor", 
         "name": "ausenco/pipeline/server", 
         "version": "latest", 
         "location": "https://registry.bspkfy.com/r/ausenco/pipeline/", 
-        "type": "Ausenco",
+        "type": "ausenco",
         "qcsVersion": "1.8"
     }
 ]
