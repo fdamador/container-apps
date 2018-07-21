@@ -556,7 +556,7 @@
         "displayName": "Webvisor", 
         "name": "registry.bspkfy.com/ausenco/pipeline/server", 
         "version": "latest", 
-        "location": "https://registry.bspkfy.com/r/ausenco/pipeline/server", 
+        "location": "https://registry.bspkfy.com/ausenco/pipeline/server", 
         "type": "docker",
     }
 ]
