@@ -1,7 +1,7 @@
 
 [
     {
-        "description": "This is Pipeline Advisor Software from .", 
+        "description": "This is Pipeline Advisor Software from Ausenco.", 
         "repository": "Gitlabhub", 
         "arch": "amd64", 
         "icon": "http://download.qnap.com/QPKG/images/QPKG/container/ai_default.png",
